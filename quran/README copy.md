@@ -13,3 +13,15 @@ Figures.
 
 Repro.
 - Python 3.11, `nltk`, `matplotlib`.
+Bible is story-driven, Qur’an is principle-driven.
+Societal vs Universal Address
+
+Bible → references to Israel, kings, psalms, sons, house, land → concrete national/cultural framework.
+
+Qur’an → man, people, day, punishment, messenger, believe → abstract categories, universal human audience.
+
+That’s a stylistic fingerprint of each text:
+
+Bible: local history, law, prophecy.
+
+Qur’an: timeless message, direct dialogue with humankind.
